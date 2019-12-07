@@ -1,5 +1,6 @@
 # -Kaggle-
-【机器学习/Kaggle教学】kaggle案例实战班-案例分析
+【机器学习/Kaggle教学】kaggle案例实战班-案例分析  
+视频学习地址：https://www.bilibili.com/video/av42834527
 
 Kaggle第01课：机器学习算法、工具与流程概述
 
