@@ -4,9 +4,9 @@
 
 github上jupyter notebook加载很慢，有时候加载不出来。
 
-    如果本机装好了jupyter notebook的话可以下载下来，在本机打开看，相对会快一些。下载jupyter notebook：如果已经有anaconda的话，可以直接用 conda install jupyter notebook 的命令安装。或者使用 pip install jupyter ，然后在terminal中输入jupyter notebook即可打开，本机打开的话会在浏览器中显示，地址为localhost:8888，也就是本机。
+如果本机装好了jupyter notebook的话可以下载下来，在本机打开看，相对会快一些。下载jupyter notebook：如果已经有anaconda的话，可以直接用 conda install jupyter notebook 的命令安装。或者使用 pip install jupyter ，然后在terminal中输入jupyter notebook即可打开，本机打开的话会在浏览器中显示，地址为localhost:8888，也就是本机。
 
-    如果不想下载的话，可以访问这个网站：https://nbviewer.jupyter.org/
+如果不想下载的话，可以访问这个网站：https://nbviewer.jupyter.org/
 把github上对应的文件的url输进去，就可以在线渲染jupyter文件了  
 
 Kaggle第01课：机器学习算法、工具与流程概述
